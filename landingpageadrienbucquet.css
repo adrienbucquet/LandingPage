@@ -1,0 +1,16 @@
+.blog-footer
+{
+  box-sizing: border-box;
+  padding: 2.5rem 0;
+  color: #444;
+  text-align: center;
+  border-top: .05rem solid #e5e5e5;
+  display: block;
+}
+
+.navbar-brand
+{
+font-size: 3rem;
+font-weight: 600;
+font-family: gobold;
+}
